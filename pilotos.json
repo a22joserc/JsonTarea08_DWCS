@@ -1,0 +1,362 @@
+[
+    {
+        "nombre": "Max Verstappen",
+        "pais": "Paises Bajos",
+        "escuderia": {
+            "nombre": "Red Bull",
+            "teamPrincipal": "Christian Horner",
+            "campeonatos": 6,
+            "victorias": 117,
+            "pais": "Austria",
+            "logo": "images/RedBull.png"
+        },
+        "campeonatos": 3,
+        "victorias": 58,
+        "podiums": 102,
+        "poles": 37,
+        "vueltasRapidas": 32,
+        "carreras": 190
+    },
+    {
+        "nombre": "Sergio Pérez",
+        "pais": "México",
+        "escuderia": {
+            "nombre": "Red Bull",
+            "teamPrincipal": "Christian Horner",
+            "campeonatos": 6,
+            "victorias": 117,
+            "pais": "Austria",
+            "logo": "images/RedBull.png"
+        },
+        "campeonatos": 0,
+        "victorias": 6,
+        "podiums": 39,
+        "poles": 3,
+        "vueltasRapidas": 11,
+        "carreras": 262
+    },
+    {
+        "nombre": "Lewis Hamilton",
+        "pais": "Reino Unido",
+        "escuderia": {
+            "nombre": "Mercedes",
+            "teamPrincipal": "Toto Wolff",
+            "campeonatos": 8,
+            "victorias": 125,
+            "pais": "Alemania",
+            "logo": "images/Mercedes.png"
+        },
+        "campeonatos": 7,
+        "victorias": 103,
+        "podiums": 197,
+        "poles": 104,
+        "vueltasRapidas": 65,
+        "carreras": 337
+    },
+    {
+        "nombre": "George Russell",
+        "pais": "Reino Unido",
+        "escuderia": {
+            "nombre": "Mercedes",
+            "teamPrincipal": "Toto Wolff",
+            "campeonatos": 8,
+            "victorias": 125,
+            "pais": "Alemania",
+            "logo": "images/Mercedes.png"
+        },
+        "campeonatos": 0,
+        "victorias": 1,
+        "podiums": 11,
+        "poles": 1,
+        "vueltasRapidas": 6,
+        "carreras": 109
+    },
+    {
+        "nombre": "Charles Leclerc",
+        "pais": "Monaco",
+        "escuderia": {
+            "nombre": "Ferrari",
+            "teamPrincipal": "Fred Vasseur",
+            "campeonatos": 16,
+            "victorias": 243,
+            "pais": "Italia",
+            "logo": "images/Ferrari.png"
+        },
+        "campeonatos": 0,
+        "victorias": 5,
+        "podiums": 32,
+        "poles": 23,
+        "vueltasRapidas": 9,
+        "carreras": 128
+    },
+    {
+        "nombre": "Carlos Sainz",
+        "pais": "España",
+        "escuderia": {
+            "nombre": "Ferrari",
+            "teamPrincipal": "Fred Vasseur",
+            "campeonatos": 16,
+            "victorias": 243,
+            "pais": "Italia",
+            "logo": "images/Ferrari.png"
+        },
+        "campeonatos": 0,
+        "victorias": 3,
+        "podiums": 21,
+        "poles": 5,
+        "vueltasRapidas": 3,
+        "carreras": 187
+    },
+    {
+        "nombre": "Lando Norris",
+        "pais": "Reino Unido",
+        "escuderia": {
+            "nombre": "McLaren",
+            "teamPrincipal": "Andrea Stella",
+            "campeonatos": 8,
+            "victorias": 183,
+            "pais": "Reino Unido",
+            "logo": "images/McLaren.png"
+        },
+        "campeonatos": 0,
+        "victorias": 0,
+        "podiums": 15,
+        "poles": 1,
+        "vueltasRapidas": 6,
+        "carreras": 109
+    },
+    {
+        "nombre": "Oscar Piastri",
+        "pais": "Australia",
+        "escuderia": {
+            "nombre": "McLaren",
+            "teamPrincipal": "Andrea Stella",
+            "campeonatos": 8,
+            "victorias": 183,
+            "pais": "Reino Unido",
+            "logo": "images/McLaren.png"
+        },
+        "campeonatos": 0,
+        "victorias": 0,
+        "podiums": 2,
+        "poles": 0,
+        "vueltasRapidas": 2,
+        "carreras": 27
+    },
+    {
+        "nombre": "Fernando Alonso",
+        "pais": "España",
+        "escuderia": {
+            "nombre": "Aston Martin",
+            "teamPrincipal": "Mike Krack",
+            "campeonatos": 0,
+            "victorias": 0,
+            "pais": "Reino Unido",
+            "logo": "images/AstonMartin.png"
+        },
+        "campeonatos": 2,
+        "victorias": 33,
+        "podiums": 106,
+        "poles": 22,
+        "vueltasRapidas": 25,
+        "carreras": 382
+    },
+    {
+        "nombre": "Lance Stroll",
+        "pais": "Canada",
+        "escuderia": {
+            "nombre": "Aston Martin",
+            "teamPrincipal": "Mike Krack",
+            "campeonatos": 0,
+            "victorias": 0,
+            "pais": "Reino Unido",
+            "logo": "images/AstonMartin.png"
+        },
+        "campeonatos": 0,
+        "victorias": 0,
+        "podiums": 3,
+        "poles": 1,
+        "vueltasRapidas": 0,
+        "carreras": 148
+    },
+    {
+        "nombre": "Pierre Gasly",
+        "pais": "Francia",
+        "escuderia": {
+            "nombre": "Alpine",
+            "teamPrincipal": "Bruno Famin",
+            "campeonatos": 0,
+            "victorias": 1,
+            "pais": "Francia",
+            "logo": "images/Alpine.png"
+        },
+        "campeonatos": 0,
+        "victorias": 1,
+        "podiums": 4,
+        "poles": 0,
+        "vueltasRapidas": 3,
+        "carreras": 135
+    },
+    {
+        "nombre": "Esteban Ocon",
+        "pais": "Francia",
+        "escuderia": {
+            "nombre": "Alpine",
+            "teamPrincipal": "Bruno Famin",
+            "campeonatos": 0,
+            "victorias": 1,
+            "pais": "Francia",
+            "logo": "images/Alpine.png"
+        },
+        "campeonatos": 0,
+        "victorias": 1,
+        "podiums": 3,
+        "poles": 0,
+        "vueltasRapidas": 0,
+        "carreras": 138
+    },
+    {
+        "nombre": "Alex Albon",
+        "pais": "Tailandia",
+        "escuderia": {
+            "nombre": "Williams",
+            "teamPrincipal": "James Vowles",
+            "campeonatos": 9,
+            "victorias": 114,
+            "pais": "Reino Unido",
+            "logo": "images/Williams.png"
+        },
+        "campeonatos": 0,
+        "victorias": 0,
+        "podiums": 2,
+        "poles": 0,
+        "vueltasRapidas": 0,
+        "carreras": 86
+    },
+    {
+        "nombre": "Logan Sargeant",
+        "pais": "Estados Unidos",
+        "escuderia": {
+            "nombre": "Williams",
+            "teamPrincipal": "James Vowles",
+            "campeonatos": 9,
+            "victorias": 114,
+            "pais": "Reino Unido",
+            "logo": "images/Williams.png"
+        },
+        "campeonatos": 0,
+        "victorias": 0,
+        "podiums": 0,
+        "poles": 0,
+        "vueltasRapidas": 0,
+        "carreras": 26
+    },
+    {
+        "nombre": "Yuki Tsunoda",
+        "pais": "Japón",
+        "escuderia": {
+            "nombre": "Racing Bulls",
+            "teamPrincipal": "Laurent Mekies",
+            "campeonatos": 0,
+            "victorias": 2,
+            "pais": "Italia",
+            "logo": "images/RacingBulls.png"
+        },
+        "campeonatos": 0,
+        "victorias": 0,
+        "podiums": 0,
+        "poles": 0,
+        "vueltasRapidas": 1,
+        "carreras": 68
+    },
+    {
+        "nombre": "Daniel Ricciardo",
+        "pais": "Australia",
+        "escuderia": {
+            "nombre": "Racing Bulls",
+            "teamPrincipal": "Laurent Mekies",
+            "campeonatos": 0,
+            "victorias": 2,
+            "pais": "Italia",
+            "logo": "images/RacingBulls.png"
+        },
+        "campeonatos": 0,
+        "victorias": 8,
+        "podiums": 32,
+        "poles": 3,
+        "vueltasRapidas": 16,
+        "carreras": 244
+    },
+    {
+        "nombre": "Valteri Bottas",
+        "pais": "Finlandia",
+        "escuderia": {
+            "nombre": "Sauber",
+            "teamPrincipal": "Andreas Siedl",
+            "campeonatos": 0,
+            "victorias": 0,
+            "pais": "Suiza",
+            "logo": "images/Sauber.png"
+        },
+        "campeonatos": 0,
+        "victorias": 10,
+        "podiums": 67,
+        "poles": 20,
+        "vueltasRapidas": 19,
+        "carreras": 227
+    },
+    {
+        "nombre": "Guanyu Zhou",
+        "pais": "China",
+        "escuderia": {
+            "nombre": "Sauber",
+            "teamPrincipal": "Andreas Siedl",
+            "campeonatos": 0,
+            "victorias": 0,
+            "pais": "Suiza",
+            "logo": "images/Sauber.png"
+        },
+        "campeonatos": 0,
+        "victorias": 0,
+        "podiums": 0,
+        "poles": 0,
+        "vueltasRapidas": 2,
+        "carreras": 49
+    },
+    {
+        "nombre": "Nico Hulkenberg",
+        "pais": "Alemania",
+        "escuderia": {
+            "nombre": "HAAS",
+            "teamPrincipal": "Ayao Komatsu",
+            "campeonatos": 0,
+            "victorias": 0,
+            "pais": "Estados Unidos",
+            "logo": "images/Haas.png"
+        },
+        "campeonatos": 0,
+        "victorias": 0,
+        "podiums": 0,
+        "poles": 1,
+        "vueltasRapidas": 2,
+        "carreras": 208
+    },
+    {
+        "nombre": "Kevin Magnussen",
+        "pais": "Dinamarca",
+        "escuderia": {
+            "nombre": "HAAS",
+            "teamPrincipal": "Ayao Komatsu",
+            "campeonatos": 0,
+            "victorias": 0,
+            "pais": "Estados Unidos",
+            "logo": "images/Haas.png"
+        },
+        "campeonatos": 0,
+        "victorias": 0,
+        "podiums": 1,
+        "poles": 1,
+        "vueltasRapidas": 2,
+        "carreras": 168
+    }
+]
