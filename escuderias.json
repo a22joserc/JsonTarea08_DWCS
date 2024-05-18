@@ -1,0 +1,82 @@
+[
+    {
+        "nombre": "Red Bull",
+        "teamPrincipal": "Christian Horner",
+        "campeonatos": 6,
+        "victorias": 117,
+        "pais": "Austria",
+        "logo": "images/RedBull.png"
+    },
+    {
+        "nombre": "Mercedes",
+        "teamPrincipal": "Toto Wolff",
+        "campeonatos": 8,
+        "victorias": 125,
+        "pais": "Alemania",
+        "logo": "images/Mercedes.png"
+    },
+    {
+        "nombre": "Ferrari",
+        "teamPrincipal": "Fred Vasseur",
+        "campeonatos": 16,
+        "victorias": 243,
+        "pais": "Italia",
+        "logo": "images/Ferrari.png"
+    },
+    {
+        "nombre": "McLaren",
+        "teamPrincipal": "Andrea Stella",
+        "campeonatos": 8,
+        "victorias": 183,
+        "pais": "Reino Unido",
+        "logo": "images/McLaren.png"
+    },
+    {
+        "nombre": "Aston Martin",
+        "teamPrincipal": "Mike Krack",
+        "campeonatos": 0,
+        "victorias": 0,
+        "pais": "Reino Unido",
+        "logo": "images/AstonMartin.png"
+    },
+    {
+        "nombre": "Alpine",
+        "teamPrincipal": "Bruno Famin",
+        "campeonatos": 0,
+        "victorias": 1,
+        "pais": "Francia",
+        "logo": "images/Alpine.png"
+    },
+    {
+        "nombre": "Williams",
+        "teamPrincipal": "James Vowles",
+        "campeonatos": 9,
+        "victorias": 114,
+        "pais": "Reino Unido",
+        "logo": "images/Williams.png"
+    },
+    {
+        "nombre": "Racing Bulls",
+        "teamPrincipal": "Laurent Mekies",
+        "campeonatos": 0,
+        "victorias": 2,
+        "pais": "Italia",
+        "logo": "images/RacingBulls.png"
+    },
+    {
+        "nombre": "Sauber",
+        "teamPrincipal": "Andreas Seidl",
+        "campeonatos": 0,
+        "victorias": 0,
+        "pais": "Suiza",
+        "logo": "images/Sauber.png"
+    },
+    {
+        "nombre": "HAAS",
+        "teamPrincipal": "Ayao Komatsu",
+        "campeonatos": 0,
+        "victorias": 0,
+        "pais": "Estados Unidos",
+        "logo": "images/Haas.png"
+    }
+]
