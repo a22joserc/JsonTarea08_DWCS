@@ -1,0 +1,10 @@
+[
+    {
+        "nombre": "Red Bull",
+        "teamPrincipal": "Christian Horner",
+        "campeonatos": 6,
+        "victorias": 117,
+        "pais": "Austria",
+        "logo": "images/RedBull.png"
+    }
+]
